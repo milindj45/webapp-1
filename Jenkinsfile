@@ -23,7 +23,7 @@ pipeline{
     }
     stage('name'){
       steps{
-          echo 'this is master'
+          echo 'this is testing'
            echo 'this is multibranch pipeline'
       }
     }
