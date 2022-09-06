@@ -24,6 +24,7 @@ pipeline{
     stage('name'){
       steps{
           echo 'this is feature'
+           echo 'this is multi-branch pipeline'
       }
     }
   }
