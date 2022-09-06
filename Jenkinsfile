@@ -23,7 +23,7 @@ pipeline{
     }
     stage('name'){
       steps{
-          echo 'this is master'
+          echo 'this is prepod'
       }
     }
   }
