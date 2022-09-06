@@ -24,6 +24,7 @@ pipeline{
     stage('name'){
       steps{
           echo 'this is prepod'
+           echo 'this is the devops project'
       }
     }
   }
